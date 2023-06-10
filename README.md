@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/JSMC14/jsmc14/blob/main/img?raw=true)
+![Imagen decorativa de tu perfil](https://github.com/JonStn/JonStn/blob/main/Baby-Groot-Transparent.png?raw=true)
 ## ¡Hola, soy Jonathan Steeven!
 
 Bienvenido/a a mi espacio digital, donde la magia del código cobra vida.
