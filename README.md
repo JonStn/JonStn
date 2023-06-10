@@ -1,5 +1,4 @@
 <img src="https://github.com/JonStn/JonStn/blob/main/Baby-Groot-Transparent.png?raw=true" alt="Imagen decorativa de tu perfil" width="200">
-
 ## ¡Hola, soy Jonathan Steeven!
 
 Bienvenido/a a mi espacio digital, donde la magia del código cobra vida.
